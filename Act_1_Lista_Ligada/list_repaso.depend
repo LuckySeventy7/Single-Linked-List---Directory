@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1566013396 source:c:\users\sergio ruiz\documents\6to\list_repaso\src\list.cpp
+	"List.h"
+
+1566012576 c:\users\sergio ruiz\documents\6to\list_repaso\include\list.h
+	<iostream>
+
+1566018681 source:c:\users\sergio ruiz\documents\6to\list_repaso\main.cpp
+	<iostream>
+	<string>
+	"List.h"
+	<stdlib.h>
+
+1565895823 source:c:\users\sergio ruiz\documents\6to\list_repaso\src\node.cpp
+	"Node.h"
+
+1565895822 c:\users\sergio ruiz\documents\6to\list_repaso\include\node.h
+
